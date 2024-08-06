@@ -1,4 +1,4 @@
-# awesome-joke - jokes, żarty, dowcipy
+# awesome-jokes - jokes, żarty, dowcipy
 
 - Zapraszam do projektu, commit-owania i push-owania własnych żartów!
 - chętnie zmerguję ;)
