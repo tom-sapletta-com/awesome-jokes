@@ -17,7 +17,8 @@ Lekarz patrzy na niego ze zrozumieniem i mówi:
 - Proponuję wstrzyknięcie zależności, ale proszę uważać na efekty uboczne. Mogą wystąpić nieoczekiwane wyjątki.
 
 Developer odpowiada:
-- A czy mają Państwo wersję trial leku? Chciałbym przetestować go przed commitowaniem do mojego organizmu.
+- A czy mają Państwo wersję trial leku? Chciałbym go przetestować przed commitowaniem.
+
 ---
 EN:
 A developer walks into a doctor's office. The doctor asks:
@@ -28,7 +29,8 @@ The doctor nods understandingly and says:
 - I suggest a dependency injection, but be careful of side effects. You might experience unexpected exceptions.
 
 The developer replies:
-- Do you have a trial version? I'd like to test it before committing it to my system."
+- Do you have a trial version? I'd like to test it before committing it"
+
 ---
 Przychodzi developer do lekarza, a lekarz pyta:
 - Co Panu dolega?
