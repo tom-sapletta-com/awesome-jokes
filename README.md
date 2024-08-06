@@ -38,3 +38,22 @@ Przychodzi developer do lekarza, a lekarz pyta:
 Lekarz patrzy na niego ze zrozumieniem i mówi:
 - Proponuję zastrzyk zależności, ale uprzedzam – może wywołać kilka niespodziewanych bugów i konieczność restartu!
 ---
+
+
+### W Restauracji
+
+---
+PL:
+Architekt wchodzi do restauracji.
+Kelner: Witamy! Co chciałby pan zamówić?
+Architekt: Poproszę modułowy, skalowalny posiłek z luźno połączonymi składnikami.
+Kelner: To może ... hamburger?
+
+---
+EN:
+An architect walks into a restaurant.
+Waiter: Welcome! What would you like to order?
+Architect: I'd like a modular, scalable meal with loosely coupled ingredients, please.
+Waiter: Uh... how about a burger?"
+---
+
