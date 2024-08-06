@@ -1,5 +1,8 @@
 # awesome-joke - jokes, żarty, dowcipy
 
+- Zapraszam do projektu, commit-owania i push-owania własnych żartów!
+- chętnie zmerguję ;)
+
 
 ### Przychodzi developer do lekarza
 
