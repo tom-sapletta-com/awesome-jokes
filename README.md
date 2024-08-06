@@ -57,3 +57,24 @@ Architect: I'd like a modular, scalable meal with loosely coupled ingredients, p
 Waiter: Uh... how about a burger?"
 ---
 
+
+### W Barze
+
+
+---
+Przychodzi Team Lead do baru i mówi:
+- Poproszę piwo dla mnie i mojego zespołu.
+Barman pyta:
+- Ile osób liczy twój zespół?
+Team Lead odpowiada:
+- Trzech juniorów, dwóch midów i jeden senior.
+Barman nalewa jedno piwo i podaje Team Leadowi.
+Team Lead patrzy zdziwiony:
+- Hej, a gdzie reszta piw?
+Barman uśmiecha się i mówi:
+- Juniorzy jeszcze w repozytorium dokumentacji o piwie.
+- Midzi są w testach jednostkowych, sprawdzając, czy piwo spełnia wszystkie warunki akceptacji.
+- Senior właśnie stworzył forka naszego piwa i teraz je kompiluje z dodatkowymi funkcjonalnościami.
+---
+
+
