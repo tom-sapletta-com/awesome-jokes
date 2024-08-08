@@ -44,7 +44,7 @@ Lekarz patrzy na niego ze zrozumieniem i mówi:
 
 ---
 PL:
-Architekt wchodzi do restauracji.
+W restauracji:
 Kelner: Witamy! Co chciałby pan zamówić?
 Architekt: Poproszę modułowy, skalowalny posiłek z luźno połączonymi składnikami.
 Kelner: To może ... hamburger?
