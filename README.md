@@ -7,8 +7,9 @@
 ### Przychodzi developer do lekarza
 
 
----
+
 PL:
+```yaml
 Przychodzi developer do lekarza, a lekarz pyta:
 - Co Panu dolega?
 - Czuję się jak nieskończona pętla while(true) - ciągle coś do poprawki.
@@ -18,9 +19,10 @@ Lekarz patrzy na niego ze zrozumieniem i mówi:
 
 Developer odpowiada:
 - A czy mają Państwo wersję trial leku? Chciałbym go przetestować przed commitowaniem.
+```
 
----
 EN:
+```yaml
 A developer walks into a doctor's office. The doctor asks:
 - What seems to be the problem?
 - I feel like an infinite while(true) loop - there's always something to fix.
@@ -30,8 +32,10 @@ The doctor nods understandingly and says:
 
 The developer replies:
 - Do you have a trial version? I'd like to test it before committing it"
+```
 
-```bash
+
+```yaml
 Przychodzi developer do lekarza, a lekarz pyta:
 - Co Panu dolega?
 - Czuję się jak projekt, który nigdy nie jest skończony – zawsze coś do poprawki.
@@ -77,7 +81,7 @@ Waiter: Uh... how about a burger?"
 ### W Barze
 
 
----
+```yaml
 Przychodzi Team Lead do baru i mówi:
 - Poproszę piwo dla mnie i mojego zespołu.
 Barman pyta:
@@ -91,7 +95,7 @@ Barman uśmiecha się i mówi:
 - Juniorzy jeszcze w repozytorium dokumentacji o piwie.
 - Midzi są w testach jednostkowych, sprawdzając, czy piwo spełnia wszystkie warunki akceptacji.
 - Senior właśnie stworzył forka naszego piwa i teraz je kompiluje z dodatkowymi funkcjonalnościami.
----
+```
 
 
 
@@ -101,27 +105,31 @@ Barman uśmiecha się i mówi:
 
 ### Przychodzi stary dziad do lekarza
 
----
+```yaml
 Przychodzi stary dziad w ciąży do lekarza,
 a lekarz pyta, a dziad na to: 
 - Przecież się zabezpieczaliśmy?!
+```
 
----
+```yaml
 Przychodzi stary dziad do lekarza,
 a lekarz pyta:
 - Co pana do mnie sprowadza?
 Dziad:
 - skierowanie
+```
 
----
+```yaml
 Przychodzi stary dziad do lekarza, a lekarz pyta:
 - Co pana do mnie sprowadza?
 Dziad:
 - Prostata.
 Lekarz:
 - Rozumiem, ale to gabinet okulistyczny.
+```
 
----
+
+```yaml
 Przychodzi stary dziad do lekarza, a lekarz pyta:
 - Co pana do mnie sprowadza?
 Dziad:
@@ -130,15 +138,16 @@ Lekarz:
 - Ale ja leczę Alzheimera!
 Dziad:
 - O, przepraszam, zapomniałem...
+```
 
----  
+```yaml  
 Przychodzi stary dziad do lekarza, a lekarz pyta:
 - Co pana do mnie sprowadza?
 Dziad odpowiada:
 - Panie doktorze, mam problem. Codziennie  idę do łazienki i robię kupę."
 Lekarz na to: "Ale to przecież normalne, w czym problem?"
 Dziad: "Problem w tym, że ja budzę się o 8:00!"
-
+```
 
 tabela z nazwami specjalistów i chorób, które leczą:
 
