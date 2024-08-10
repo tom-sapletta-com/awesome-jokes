@@ -36,6 +36,7 @@ The developer replies:
 ```yaml
 Przychodzi developer do lekarza, a lekarz pyta:
 - Co Panu dolega?
+Developer:
 - Czuję się jak projekt, który nigdy nie jest skończony – zawsze coś do poprawki.
 Lekarz patrzy na niego ze zrozumieniem i mówi:
 - Proponuję zastrzyk zależności, ale uprzedzam – może wywołać kilka niespodziewanych bugów i konieczność restartu!
