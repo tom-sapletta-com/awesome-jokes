@@ -144,7 +144,7 @@ Dziad:
 Przychodzi stary dziad do lekarza, a lekarz pyta:
 - Co pana do mnie sprowadza?
 Dziad odpowiada:
-- Panie doktorze, mam problem. Codziennie  idę do łazienki i robię kupę."
+- Panie doktorze, mam problem. Codziennie o 7:00 idę do łazienki i robię kupę."
 Lekarz na to: "Ale to przecież normalne, w czym problem?"
 Dziad: "Problem w tym, że ja budzę się o 8:00!"
 ```
