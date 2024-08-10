@@ -40,14 +40,6 @@ Lekarz patrzy na niego ze zrozumieniem i mówi:
 ---
 
 
-
-### Przychodzi stary dziad do lekarza
-
-Przychodzi stary dziad w ciąży do lekarza,
-a lekarz pyta, a dziad na to: 
-- Przecież się zabezpieczaliśmy?!
-
-
 ### W Restauracji
 
 ---
@@ -84,5 +76,75 @@ Barman uśmiecha się i mówi:
 - Midzi są w testach jednostkowych, sprawdzając, czy piwo spełnia wszystkie warunki akceptacji.
 - Senior właśnie stworzył forka naszego piwa i teraz je kompiluje z dodatkowymi funkcjonalnościami.
 ---
+
+
+
+
+
+
+
+### Przychodzi stary dziad do lekarza
+
+---
+Przychodzi stary dziad w ciąży do lekarza,
+a lekarz pyta, a dziad na to: 
+- Przecież się zabezpieczaliśmy?!
+
+---
+Przychodzi stary dziad do lekarza,
+a lekarz pyta:
+- Co pana do mnie sprowadza?
+Dziad:
+- skierowanie
+
+---
+Przychodzi stary dziad do lekarza, a lekarz pyta:
+- Co pana do mnie sprowadza?
+Dziad:
+- Prostata.
+Lekarz:
+- Rozumiem, ale to gabinet okulistyczny.
+
+---
+Przychodzi stary dziad do lekarza, a lekarz pyta:
+- Co pana do mnie sprowadza?
+Dziad:
+- Prostata
+Lekarz:
+- Ale ja leczę Alzheimera!
+Dziad:
+- O, przepraszam, zapomniałem...
+
+---  
+
+
+tabela z nazwami specjalistów i chorób, które leczą:
+
+| Specjalista           | Choroby/Problemy                          |
+|-----------------------|-------------------------------------------|
+| Dermatolog            | Choroby skóry, włosów i paznokci          |
+| Kardiolog             | Choroby serca i układu krążenia           |
+| Neurolog              | Choroby układu nerwowego                  |
+| Onkolog               | Nowotwory                                 |
+| Ortopeda              | Choroby i urazy układu kostnego           |
+| Gastroenterolog       | Choroby układu pokarmowego                |
+| Endokrynolog          | Choroby układu hormonalnego               |
+| Pulmonolog            | Choroby płuc i układu oddechowego         |
+| Nefrolog              | Choroby nerek                             |
+| Urolog                | Choroby układu moczowego i płciowego      |
+| Pediatra              | Choroby dzieci                            |
+| Ginekolog             | Choroby i opieka zdrowotna kobiet         |
+| Psychiatra            | Choroby psychiczne i zaburzenia emocjon.  |
+| Reumatolog            | Choroby stawów, tkanki łącznej            |
+| Optyk/Okulista        | Choroby oczu, problemy ze wzrokiem        |
+| Laryngolog            | Choroby ucha, nosa i gardła               |
+| Diabetolog            | Cukrzyca                                  |
+| Hematolog             | Choroby krwi                              |
+| Hepatolog             | Choroby wątroby                           |
+| Alergolog             | Alergie i choroby alergiczne              |
+| Geriatra              | Choroby wieku podeszłego (starszych ludzi)|
+| Immunolog             | Choroby układu odpornościowego            |
+| Chirurg               | Różnego rodzaju zabiegi operacyjne        |
+| Proktolog             | Choroby odbytu i odbytnicy                |
 
 
