@@ -12,11 +12,10 @@ PL:
 ```yaml
 Przychodzi developer do lekarza, a lekarz pyta:
 - Co Panu dolega?
+Developer:
 - Czuję się jak nieskończona pętla while(true) - ciągle coś do poprawki.
-
 Lekarz patrzy na niego ze zrozumieniem i mówi:
 - Proponuję wstrzyknięcie zależności, ale proszę uważać na efekty uboczne. Mogą wystąpić nieoczekiwane wyjątki.
-
 Developer odpowiada:
 - A czy mają Państwo wersję trial leku? Chciałbym go przetestować przed commitowaniem.
 ```
