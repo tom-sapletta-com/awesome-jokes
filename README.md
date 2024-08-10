@@ -24,11 +24,10 @@ EN:
 ```yaml
 A developer walks into a doctor's office. The doctor asks:
 - What seems to be the problem?
+Developer:
 - I feel like an infinite while(true) loop - there's always something to fix.
-
 The doctor nods understandingly and says:
 - I suggest a dependency injection, but be careful of side effects. You might experience unexpected exceptions.
-
 The developer replies:
 - Do you have a trial version? I'd like to test it before committing it"
 ```
