@@ -37,8 +37,22 @@ Przychodzi developer do lekarza, a lekarz pyta:
 - Czuję się jak projekt, który nigdy nie jest skończony – zawsze coś do poprawki.
 Lekarz patrzy na niego ze zrozumieniem i mówi:
 - Proponuję zastrzyk zależności, ale uprzedzam – może wywołać kilka niespodziewanych bugów i konieczność restartu!
----
 
+---
+Przychodzi senior developer do lekarza, a lekarz pyta:
+- Co pana do mnie sprowadza?
+Senior developer odpowiada:
+- Doktorze, mam straszne bóle głowy, nie mogę spać, a mój wzrok się pogarsza.
+Lekarz:
+- Hmm, a jak długo pan pracuje przy komputerze dziennie?
+Senior developer:
+- Około 3-4 godziny.
+Lekarz, zdziwiony:
+- Tylko tyle? To stosunkowo mało jak na programistę?
+Senior developer:
+- No tak, resztę dnia spędzam na code review juniorów i poprawianiu ich błędów.
+
+---
 
 ### W Restauracji
 
@@ -116,6 +130,12 @@ Dziad:
 - O, przepraszam, zapomniałem...
 
 ---  
+Przychodzi stary dziad do lekarza, a lekarz pyta:
+- Co pana do mnie sprowadza?
+Dziad odpowiada:
+- Panie doktorze, mam problem. Codziennie  idę do łazienki i robię kupę."
+Lekarz na to: "Ale to przecież normalne, w czym problem?"
+Dziad: "Problem w tym, że ja budzę się o 8:00!"
 
 
 tabela z nazwami specjalistów i chorób, które leczą:
