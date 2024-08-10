@@ -40,6 +40,14 @@ Lekarz patrzy na niego ze zrozumieniem i mówi:
 ---
 
 
+
+### Przychodzi stary dziad do lekarza
+
+Przychodzi stary dziad w ciąży do lekarza,
+a lekarz pyta, a dziad na to: 
+- Przecież się zabezpieczaliśmy?!
+
+
 ### W Restauracji
 
 ---
