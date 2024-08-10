@@ -31,14 +31,15 @@ The doctor nods understandingly and says:
 The developer replies:
 - Do you have a trial version? I'd like to test it before committing it"
 
----
+```bash
 Przychodzi developer do lekarza, a lekarz pyta:
 - Co Panu dolega?
 - Czuję się jak projekt, który nigdy nie jest skończony – zawsze coś do poprawki.
 Lekarz patrzy na niego ze zrozumieniem i mówi:
 - Proponuję zastrzyk zależności, ale uprzedzam – może wywołać kilka niespodziewanych bugów i konieczność restartu!
+```
 
----
+```yaml
 Przychodzi senior developer do lekarza, a lekarz pyta:
 - Co pana do mnie sprowadza?
 Senior developer odpowiada:
@@ -51,6 +52,7 @@ Lekarz, zdziwiony:
 - Tylko tyle? To stosunkowo mało jak na programistę?
 Senior developer:
 - No tak, resztę dnia spędzam na code review juniorów i poprawianiu ich błędów.
+```
 
 ---
 
